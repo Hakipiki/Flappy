@@ -1,4 +1,4 @@
-Initialize Pygame
+
 pygame.init()
 
 Set up some constants
